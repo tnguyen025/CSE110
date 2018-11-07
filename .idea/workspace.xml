@@ -34,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="243" />
+          <entry key="java" value="245" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="243" />
+          <entry key="JAVA" value="245" />
         </counts>
       </usages-collector>
     </session>
@@ -218,7 +218,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://F:/Java/jdk-11/lib/src.zip!/java.base/java/io/FileInputStream.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541620094234" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541620377385" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -333,7 +333,7 @@
       <workItem from="1541015240884" duration="729000" />
       <workItem from="1541583576304" duration="642000" />
       <workItem from="1541584326096" duration="1261000" />
-      <workItem from="1541613562122" duration="3558000" />
+      <workItem from="1541613562122" duration="3840000" />
     </task>
     <servers />
   </component>
@@ -361,7 +361,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9473000" />
+    <option name="totallyTimeSpent" value="9755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
